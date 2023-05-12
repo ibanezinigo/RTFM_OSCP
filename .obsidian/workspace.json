@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6f1b57b37aac317f",
+        "id": "911c089466b7c2cb",
         "type": "tabs",
         "children": [
           {
-            "id": "f633e5563f6135df",
+            "id": "785b9403dafed2a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_Tools/Evil-winrm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5008f22c0d9e81cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Vulns/Remote File include.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb010789d5597da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Protocols/Rdp.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Protocols/Rdp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Protocols/Rdp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_Protocols/Rdp.md"
+              }
             }
           }
         ]
@@ -138,6 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f633e5563f6135df",
-  "lastOpenFiles": []
+  "active": "cb010789d5597da8",
+  "lastOpenFiles": [
+    "01_Protocols/Scp.md",
+    "01_Protocols/Rdp.md",
+    "02_Tools/Nmap.md",
+    "03_Vulns/Getting Creds via NTLMv2.md",
+    "03_Vulns/Remote File include.md",
+    "03_Vulns/Local File Include.md",
+    "02_Tools/Evil-winrm.md",
+    "02_Tools/Responder.md",
+    "02_Tools/Gobuster.md",
+    "02_Tools/WFuzz.md",
+    "01_Protocols/Samba.md",
+    "01_Protocols/Ssh.md",
+    "01_Protocols/Ftp.md",
+    "03_Vulns",
+    "02_Tools",
+    "README",
+    "01_Protocols"
+  ]
 }
