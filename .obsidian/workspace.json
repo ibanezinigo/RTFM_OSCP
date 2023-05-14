@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "911c089466b7c2cb",
+        "id": "8875edfef700d904",
         "type": "tabs",
         "children": [
           {
-            "id": "785b9403dafed2a6",
+            "id": "45bc9efee4f14376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Manuals/02_Tools/Evil-winrm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5008f22c0d9e81cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Vulns/Remote File include.md",
+                "file": "00_Manuals/03_Others/Upgrade a shell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_Manuals/03_Others/Upgrade a shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_Manuals/03_Others/Upgrade a shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00_Manuals/03_Others/Upgrade a shell.md"
+              }
             }
           }
         ]
@@ -155,30 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ee77d9cdf40c026",
+  "active": "45bc9efee4f14376",
   "lastOpenFiles": [
-    "Manuals/01_Protocols/Rdp.md",
-    "Manuals/01_Protocols/Samba.md",
-    "Manuals/01_Protocols/Scp.md",
-    "Manuals/02_Tools/Evil-winrm.md",
-    "Manuals/02_Tools/Gobuster.md",
-    "Manuals/02_Tools/Nmap.md",
-    "Manuals/02_Tools/Responder.md",
+    "04_Machines/00_Lame/Walkthrough.md",
+    "01_Scanning/01_Directory Fuzzing.md",
+    "02_Pentesting/Web/XSS.md",
     "01_Scanning/00_Port Scanning.md",
-    "00_Manuals/02_Tools/Nmap.md",
-    "00_Manuals/02_Tools/Evil-winrm.md",
-    "00_Manuals/01_Protocols/Ssh.md",
-    "00_Manuals/01_Protocols/Rdp.md",
-    "00_Manuals/01_Protocols",
-    "00_Manuals/01_Protocols/Scp.md",
-    "03_Vulns/Getting Creds via NTLMv2.md",
+    "00_Manuals/03_Others/Upgrade a shell.md",
+    "00_Manuals/03_Others",
     "03_Vulns/Remote File include.md",
     "03_Vulns/Local File Include.md",
-    "00_Manuals/02_Tools/Responder.md",
-    "00_Manuals/02_Tools/Gobuster.md",
+    "03_Vulns/Getting Creds via NTLMv2.md",
+    "02_Pentesting/Web/OTHER-Pending.md",
+    "02_Pentesting/Web/RFI (Remote File inclusion).md",
+    "02_Pentesting/Getting Creds via NTLMv2.md",
+    "02_Pentesting/Web/SQLI (SQL Inyection).md",
+    "02_Pentesting/Web/LFI (Local File Inclusion).md",
     "00_Manuals/02_Tools/WFuzz.md",
+    "00_Manuals/02_Tools/Responder.md",
+    "00_Manuals/02_Tools/Nmap.md",
+    "00_Manuals/02_Tools/Gobuster.md",
+    "00_Manuals/02_Tools/Evil-winrm.md",
+    "00_Manuals/01_Protocols/Ssh.md",
+    "00_Manuals/01_Protocols/Scp.md",
     "00_Manuals/01_Protocols/Samba.md",
+    "00_Manuals/01_Protocols/Rdp.md",
     "00_Manuals/01_Protocols/Ftp.md",
+    "Manuals/01_Protocols/Ftp.md",
+    "04_Machines/00_Lame",
+    "04_Machines",
+    "Manuals/01_Protocols/Rdp.md",
+    "Manuals/01_Protocols/Samba.md",
+    "00_Manuals/01_Protocols",
     "03_Vulns",
     "00_Manuals/02_Tools",
     "README",
