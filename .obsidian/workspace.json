@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Tools/Evil-winrm.md",
+                "file": "00_Manuals/02_Tools/Evil-winrm.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb010789d5597da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Protocols/Rdp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "c03113077101667b",
@@ -110,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Protocols/Rdp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Protocols/Rdp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01_Protocols/Rdp.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,24 +155,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb010789d5597da8",
+  "active": "8ee77d9cdf40c026",
   "lastOpenFiles": [
-    "01_Protocols/Scp.md",
-    "01_Protocols/Rdp.md",
-    "02_Tools/Nmap.md",
+    "Manuals/01_Protocols/Rdp.md",
+    "Manuals/01_Protocols/Samba.md",
+    "Manuals/01_Protocols/Scp.md",
+    "Manuals/02_Tools/Evil-winrm.md",
+    "Manuals/02_Tools/Gobuster.md",
+    "Manuals/02_Tools/Nmap.md",
+    "Manuals/02_Tools/Responder.md",
+    "01_Scanning/00_Port Scanning.md",
+    "00_Manuals/02_Tools/Nmap.md",
+    "00_Manuals/02_Tools/Evil-winrm.md",
+    "00_Manuals/01_Protocols/Ssh.md",
+    "00_Manuals/01_Protocols/Rdp.md",
+    "00_Manuals/01_Protocols",
+    "00_Manuals/01_Protocols/Scp.md",
     "03_Vulns/Getting Creds via NTLMv2.md",
     "03_Vulns/Remote File include.md",
     "03_Vulns/Local File Include.md",
-    "02_Tools/Evil-winrm.md",
-    "02_Tools/Responder.md",
-    "02_Tools/Gobuster.md",
-    "02_Tools/WFuzz.md",
-    "01_Protocols/Samba.md",
-    "01_Protocols/Ssh.md",
-    "01_Protocols/Ftp.md",
+    "00_Manuals/02_Tools/Responder.md",
+    "00_Manuals/02_Tools/Gobuster.md",
+    "00_Manuals/02_Tools/WFuzz.md",
+    "00_Manuals/01_Protocols/Samba.md",
+    "00_Manuals/01_Protocols/Ftp.md",
     "03_Vulns",
-    "02_Tools",
+    "00_Manuals/02_Tools",
     "README",
-    "01_Protocols"
+    "00_Manuals"
   ]
 }
